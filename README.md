@@ -1,6 +1,3 @@
 # hello-world
 
-It has been editted!!!
-
-
-Znowu edytowano
+cat > myOut
